@@ -1,4 +1,10 @@
+<div align="center">
+
 # FractalForge — генератор и исследователь фракталов
+
+[🇷🇺 Русский](README.ru.md) · [English 🇬🇧](README.md)
+
+</div>
 
 ![Множество Мандельброта](docs/mandelbrot.png)
 
@@ -53,6 +59,10 @@ go build -o fractalforge .
 go run .
 ```
 
+## Готовые сборки
+
+Ничего собирать не нужно — скачайте **fractalforge.exe** со страницы [Releases](https://github.com/Dima-programmer/Fractal-traveler/releases) и запустите напрямую.
+
 ## Структура проекта
 
 ```
@@ -65,4 +75,4 @@ presets/      встроенные пресеты сцен
 
 ## Лицензия
 
-MIT
+[MIT](LICENSE)

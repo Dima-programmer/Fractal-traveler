@@ -1,4 +1,10 @@
+<div align="center">
+
 # FractalForge — Fractal Generator & Explorer
+
+[🇷🇺 Русский](README.ru.md) · [English 🇬🇧](README.md)
+
+</div>
 
 ![Mandelbrot set](docs/mandelbrot.png)
 
@@ -54,6 +60,10 @@ go build -o fractalforge .
 go run .
 ```
 
+## Pre-built binaries
+
+No build required — download **fractalforge.exe** from the [Releases](https://github.com/Dima-programmer/Fractal-traveler/releases) page and run it directly.
+
 ## Project layout
 
 ```
@@ -66,4 +76,4 @@ presets/      bundled scene presets
 
 ## License
 
-MIT
+[MIT](LICENSE)
